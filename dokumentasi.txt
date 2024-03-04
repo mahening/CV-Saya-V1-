@@ -1,0 +1,10 @@
+Struktur html menggunakan "<!doctype html>" atau dengan shortcut ketik "html" lalu tab.
+
+Struktur html terdapat "head" dan "Body"
+Didalam "head" terdapat 4 tag yaitu:
+<tittle> untuk memberikan judul halaman web </tittle?
+<script> untuk javascript </script>
+<style> untuk css </style>
+<meta> untuk perdataan web atau deskripsi web </meta>
+
+didalam "body" terdapat banyak tag yang dapat digunakan untuk keperluan isi web tersebut, tinggal disesuaikan kebutuhan.
